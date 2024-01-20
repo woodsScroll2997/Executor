@@ -1,0 +1,17 @@
+[Subject]
+  CN=Quasar Server CA
+
+[Issuer]
+  CN=Quasar Server CA
+
+[Serial Number]
+  00FC1C3FE8E9031D363863D0CFF5572D
+
+[Not Before]
+  2024-01-18 13:27:42
+
+[Not After]
+  9999-12-31 23:59:59
+
+[Thumbprint]
+  1E8ED48530CFB3BF8C015215DAC297E6D7AF2027
